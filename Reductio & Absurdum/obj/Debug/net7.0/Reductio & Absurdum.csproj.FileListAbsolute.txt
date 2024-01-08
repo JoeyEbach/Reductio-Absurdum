@@ -1,0 +1,15 @@
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/bin/Debug/net7.0/Reductio & Absurdum
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/bin/Debug/net7.0/Reductio & Absurdum.deps.json
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/bin/Debug/net7.0/Reductio & Absurdum.runtimeconfig.json
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/bin/Debug/net7.0/Reductio & Absurdum.dll
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/bin/Debug/net7.0/Reductio & Absurdum.pdb
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/Reductio & Absurdum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/Reductio & Absurdum.AssemblyInfoInputs.cache
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/Reductio & Absurdum.AssemblyInfo.cs
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/Reductio & Absurdum.csproj.CoreCompileInputs.cache
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/Reductio & Absurdum.dll
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/refint/Reductio & Absurdum.dll
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/Reductio & Absurdum.pdb
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/Reductio & Absurdum.genruntimeconfig.cache
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/ref/Reductio & Absurdum.dll
+/Users/joeyebach/workspace/csharp/Reductio & Absurdum/Reductio & Absurdum/obj/Debug/net7.0/Reductio & Absurdum.csproj.AssemblyReference.cache
